@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_title_text">Inventory is empty</string>
+    <string name="empty_view_subtitle_text">Add an item to get started</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="editor_activity_title_new_item">Add an Item</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="unsaved_changes_dialog_msg">"Discard your changes and quit adding? "</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Adding</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_image">Add Image</string>
+    <string name="order_quantity">Order Quantity:</string>
+    <string name="decrease_quantity">-</string>
+    <string name="increase_quantity">+</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="order">Order</string>
+    <string name="detail_product_name">Product Name:</string>
+    <string name="detail_price">Price:</string>
+    <string name="sell">Sell</string>
+    <string name="detail_activity_title_product_detail">Product Detail</string>
+    <string name="confirm_to_delete">Confirm to delete</string>
+    <string name="delete">Delete</string>
+</resources>
